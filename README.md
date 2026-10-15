@@ -1,4 +1,4 @@
-# mnsiahnimo.github.io
+# MyGitRSIte
 
 Personal website for Michael Nsiah-Nimo, built with [Quarto](https://quarto.org/).
 
