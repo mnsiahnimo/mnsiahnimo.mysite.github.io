@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Nsiah-Nimo",
+    "section": "",
+    "text": "I am a research statistician and data analytics professional with seven years of experience turning complex data into evidence that informs research and decision-making. My work sits at the intersection of rigorous statistical methodology and practical analytics, with a particular focus on health disparities research.\nOn the research side, I use R and Python to build statistical models and analyze biomedical and clinical data. My methodological toolkit includes survival analysis, causal inference, general and generalized linear models, and linear mixed models.\nOn the analytics side, I work with SQL, Tableau, and CRM systems to prepare, analyze, and visualize higher education and research data, delivering both descriptive and predictive analytics that help institutions understand trends and plan ahead.\nI hold an MS in Statistics and am pursuing a PhD in Biostatistics at the University of Nebraska Medical Center."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Michael Nsiah-Nimo",
+    "section": "Research interests",
+    "text": "Research interests\n\nClinical trial methodology\nBayesian statistics\nCausal inference\nMachine learning integration in biostatistics\nHealth disparities"
+  },
+  {
+    "objectID": "index.html#expertise",
+    "href": "index.html#expertise",
+    "title": "Michael Nsiah-Nimo",
+    "section": "Expertise",
+    "text": "Expertise\n\n\nStatistical analysis & research\n\nR, Python\nSurvival analysis\nCausal inference\nGeneral and generalized linear models\nLinear mixed models\n\n\n\nData analytics\n\nSQL\nTableau data visualization\nData preparation\nCRM for higher education and research data\nDescriptive and predictive analytics"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "[TO BE SUPPLIED: Author(s). Year. “Title.” Journal. DOI link]"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "[TO BE SUPPLIED: Author(s). Year. “Title.” Journal. DOI link]"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\n[TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\n[TO BE SUPPLIED: project name, short description, link to code on GitHub]"
+  },
+  {
+    "objectID": "uses.html",
+    "href": "uses.html",
+    "title": "What I use",
+    "section": "",
+    "text": "A running list of the tools I use for statistics, analytics, and writing. I try to keep it up to date."
+  },
+  {
+    "objectID": "uses.html#statistical-analysis-and-research",
+    "href": "uses.html#statistical-analysis-and-research",
+    "title": "What I use",
+    "section": "Statistical analysis and research",
+    "text": "Statistical analysis and research\n\nR for statistical modeling and analysis, including survival analysis, causal inference, general and generalized linear models, and linear mixed models.\nPython for [TO BE SUPPLIED: what you use Python for].\nSAS for [TO BE SUPPLIED].\n[TO BE SUPPLIED: editor, e.g., Positron or RStudio]"
+  },
+  {
+    "objectID": "uses.html#data-analytics",
+    "href": "uses.html#data-analytics",
+    "title": "What I use",
+    "section": "Data analytics",
+    "text": "Data analytics\n\nSQL for querying and preparing data.\nTableau for data visualization and dashboards.\nCRM systems for higher education and research data. [TO BE SUPPLIED: name of CRM, if you want to list it]"
+  },
+  {
+    "objectID": "uses.html#writing-and-publishing",
+    "href": "uses.html#writing-and-publishing",
+    "title": "What I use",
+    "section": "Writing and publishing",
+    "text": "Writing and publishing\n\nQuarto to build this website.\nGitHub to host my code and this site: github.com/mnsiahnimo.\n[TO BE SUPPLIED: reference manager, note-taking app]"
+  },
+  {
+    "objectID": "uses.html#productivity",
+    "href": "uses.html#productivity",
+    "title": "What I use",
+    "section": "Productivity",
+    "text": "Productivity\n\n[TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "uses.html#hardware",
+    "href": "uses.html#hardware",
+    "title": "What I use",
+    "section": "Hardware",
+    "text": "Hardware\n\n[TO BE SUPPLIED]"
+  }
+]
