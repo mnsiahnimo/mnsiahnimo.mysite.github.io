@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Michael Nsiah-Nimo"
-  site-url: https://mnsiahnimo.github.io
+  site-url: https://mnsiahnimo.mysite.github.io
   description: "Research statistician and data analytics professional"
   page-navigation: true
   navbar:
